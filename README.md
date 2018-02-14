@@ -1,4 +1,4 @@
-# Apparel_Recommendation_Engine
+# Fashion_Recommendation_Engine
 
 This notebook contains the result of various techniques like BOW, TF-IDF, W2V etc. 
 
